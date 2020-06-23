@@ -1,0 +1,92 @@
+.body{
+    padding: 0px !important;
+    /* width: 900px !important; */
+}
+body{
+    background: radial-gradient( circle,rgb(23, 231, 214),rgb(31, 30, 30));
+
+}
+.main{
+    margin: 0 auto;;
+    margin-top:100px;
+    width: 395px;
+    background-color: #000;
+    box-shadow: 0px 0px 25px 2px rgba(0, 0, 0, 0.85);
+    border-radius: 12px;
+    border: 1px solid #000;
+    overflow: hidden;
+    text-align: center;
+}
+
+button{
+    height: 80px;
+    width: 100px;
+    border: 1px  solid #000 !important;
+    background-color:  rgb(48, 48, 48);
+    color: #fff;
+    padding: 0 !important;
+    margin: -3px !important;
+}
+.Clear{
+    height: 80px !important;
+    width: 198px !important;
+}
+.Clear:hover{
+    background-color:  rgb(87, 86, 86);
+
+}
+#screen{
+    /* background-color: rgb(48, 48, 48);; */
+    background-image: linear-gradient( rgb(70, 70, 68),rgb(48, 48, 48));
+    border: none;
+    width: 393px;
+    text-decoration: none;
+    height: 180px;
+    padding: 20px;
+    /* border: 1px solid #000; */
+    margin: -3px !important;
+    border-radius: 10px 10px 0px 0px !important;
+    color: #fff;
+    font-size :30px !important;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif !important;
+    overflow: hidden;
+}
+.ba{
+    border: 1px solid rgb(112, 20, 20);
+    width: 396px;
+    margin: 0 auto;
+}
+.aa{
+    background-color: black;
+}
+
+.b:hover{
+    background-color:  rgb(78, 78, 78) ;
+    
+}
+
+.op{
+    background-color: rgb(13, 30, 187);
+}
+.op:hover{
+    background-color: rgb(7, 27, 247);
+
+}
+.op1{
+    background-color: rgb(170, 2, 30);
+    border: 1px solid #000 !important;
+}
+.op1:hover{
+    background-color: rgb(161, 62, 67);
+}
+button:focus{
+    text-decoration: none;
+    border:1px solid #000 !important;
+    outline: none !important;
+}
+
+button{
+    font-size: 18px !important  ;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
